@@ -1,0 +1,22 @@
+{
+  "t1": {
+    "pol_orient": "D",
+    "sex_orient": "G"
+  },
+  "t2": {
+    "pol_orient": "R",
+    "sex_orient": "G"
+  },
+  "t3": {
+    "pol_orient": "D",
+    "sex_orient": "S"
+  },
+  "t4": {
+    "pol_orient": "R",
+    "sex_orient": "S"
+  },
+  "t5": {
+    "pol_orient": "N",
+    "sex_orient": "N"
+  }
+}

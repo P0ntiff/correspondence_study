@@ -1,0 +1,106 @@
+{
+    "males": [
+        {
+            "fname": "Zachary",
+            "lname": "Miller",
+            "nickname": "Zach",
+            "sex": "m",
+            "email": "z.miller9431@gmail.com",
+            "pw": "correspondence1",
+            "client_secret": "",
+            "client_id": ""
+        },
+        {
+            "fname": "Maxwell",
+            "lname": "Brown",
+            "nickname": "Max",
+            "sex": "m",
+            "email": "m.brown@gmail.com",
+            "pw": "correspondence1",
+            "client_secret": "",
+            "client_id": ""
+        },
+        {
+            "fname": "Nathaniel",
+            "lname": "Williams",
+            "nickname": "Nate",
+            "sex": "m",
+            "email": "n.williams@gmail.com",
+            "pw": "correspondence1",
+            "client_secret": "",
+            "client_id": ""
+        },
+        {
+            "fname": "Samuel",
+            "lname": "Jones",
+            "nickname": "Sam",
+            "sex": "m",
+            "email": "s.jones@gmail.com",
+            "pw": "correspondence1",
+            "client_secret": "",
+            "client_id": ""
+        },
+        {
+            "fname": "Theodore",
+            "lname": "Anderson",
+            "nickname": "Ted",
+            "sex": "m",
+            "email": "t.anderson@gmail.com",
+            "pw": "correspondence1",
+            "client_secret": "",
+            "client_id": ""
+        }
+    ],
+    "females": [
+        {
+            "fname": "Victoria",
+            "lname": "Robertson",
+            "nickname": "Tori",
+            "sex": "f",
+            "email": "t.robertson@gmail.com",
+            "pw": "correspondence1",
+            "client_secret": "",
+            "client_id": ""
+        },
+        {
+            "fname": "Rosemary",
+            "lname": "Mason",
+            "nickname": "Rose",
+            "sex": "f",
+            "email": "r.mason@gmail.com",
+            "pw": "correspondence1",
+            "client_secret": "",
+            "client_id": ""
+        },
+        {
+            "fname": "Jillian",
+            "lname": "Richardson",
+            "nickname": "Jill",
+            "sex": "f",
+            "email": "j.richardson@gmail.com",
+            "pw": "correspondence1",
+            "client_secret": "",
+            "client_id": ""
+        },
+        {
+            "fname": "Kimberley",
+            "lname": "Thomas",
+            "nickname": "Kim",
+            "sex": "f",
+            "email": "k.thomas@gmail.com",
+            "pw": "correspondence1",
+            "client_secret": "",
+            "client_id": ""
+        },
+        {
+            "fname": "Elizabeth",
+            "lname": "Wilson",
+            "nickname": "Lisa",
+            "sex": "f",
+            "email": "l.wilson@gmail.com",
+            "pw": "correspondence1",
+            "client_secret": "",
+            "client_id": ""
+        }
+    ]
+}
